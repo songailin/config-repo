@@ -3,4 +3,4 @@ spring:
     addresses: 192.168.244.3
     username: admin
     password: admin
-    port:5672
+    port: 5672
